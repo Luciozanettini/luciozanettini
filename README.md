@@ -1,16 +1,33 @@
-## Hi there 👋
+# Luciozanettini
+HI, I AM LUCIO 🙌🏻
 
-<!--
-**Luciozanettini/luciozanettini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Data Analyst Portfolio! Here, I showcase various projects that demonstrate my skills in data analysis, including work with SQL, Python, and data visualization tools such as Tableau and Power BI. My goal is to utilize data-driven insights to support decision-making processes and help organizations improve their strategies.
 
-Here are some ideas to get you started:
+Skills & Tools Used
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+SQL: Data extraction, transformation, and querying using advanced SQL commands.
+Python: Data manipulation and analysis with libraries like Pandas, NumPy, and Matplotlib.
+Power BI: Business Intelligence reporting and dashboard creation.
+Tableau: Data visualization and interactive dashboard design.
+
+![GitHub Portfolio](https://github.com/Luciozanettini/Lucio-Zanettini/blob/main/Github.png)
+
+### 🛠️ HERRAMIENTAS:
+
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+<img width="12" />
+<img src="https://cdn.worldvectorlogo.com/logos/trello.svg" height="40" alt="trello"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
+<img width="12" />
+<img src="https://cdn.worldvectorlogo.com/logos/drive-new-logo-1.svg" height="36" alt="drive logo"  />
+<img width="12" />
+<img src="https://cdn.worldvectorlogo.com/logos/discord.svg" height="40" alt="discord logo"  />
+<img width="12" />
+<img src="https://cdn.worldvectorlogo.com/logos/zoom-app.svg" height="40" alt="zoom logo"  />
+<img width="12" />
+<img src="https://cdn.worldvectorlogo.com/logos/google-meet-icon-2020-.svg" height="33" alt="meet logo"  />
+</div>
