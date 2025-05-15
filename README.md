@@ -12,11 +12,10 @@ Tableau: Data visualization and interactive dashboard design.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Luciozanettini/Lucio-Zanettini/main/Github.png" 
-       alt="GitHub Portfolio Banner" 
-       width="600" 
+       alt="Lucio Zanettini - Data Analyst Portfolio" 
+       width="300" 
        style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
 </p>
-
 
 ### 🛠️ HERRAMIENTAS:
 
