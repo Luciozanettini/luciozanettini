@@ -10,12 +10,8 @@ Python: Data manipulation and analysis with libraries like Pandas, NumPy, and Ma
 Power BI: Business Intelligence reporting and dashboard creation.
 Tableau: Data visualization and interactive dashboard design.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Luciozanettini/Lucio-Zanettini/main/Github.png" 
-       alt="Lucio Zanettini - Data Analyst Portfolio" 
-       width="300" 
-       style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-</p>
+![GitHub Portfolio](https://github.com/Luciozanettini/Lucio-Zanettini/blob/main/Github.png)
+
 
 ### 🛠️ HERRAMIENTAS:
 
